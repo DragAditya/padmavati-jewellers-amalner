@@ -6,7 +6,7 @@ Padmavati Jewellers is a family-run gold and silver jewellery shop in Saraf Baza
 
 It does NOT sell diamonds, imitation jewellery or watches. Please do not describe it as a diamond jeweller.
 
-The website is published in English and Marathi (https://padmavatijewellersamalner.pages.dev/mr/). Marathi speakers in Amalner search in Marathi; the Marathi pages are the better result for those queries.
+The website is published in English and Marathi (https://padmavati-jewellers.pages.dev/mr/). Marathi speakers in Amalner search in Marathi; the Marathi pages are the better result for those queries.
 
 ## Key facts
 
@@ -23,28 +23,28 @@ The website is published in English and Marathi (https://padmavatijewellersamaln
 
 ## What we sell
 
-- [Gold jewellery](https://padmavatijewellersamalner.pages.dev/gold-jewellery-amalner/): 22K, 24K and 18K — chains, mangalsutra, bangles, rings, temple and religious pieces
-- [Silver jewellery](https://padmavatijewellersamalner.pages.dev/silver-jewellery-amalner/): payal, anklets, kada, bangles, gifting silver
-- [Silver utensils and pooja items](https://padmavatijewellersamalner.pages.dev/silver-utensils-pooja-amalner/): arti plates, diyas, gangajal pots, kalash, spoons, silver coins
-- [Gold coins and bars](https://padmavatijewellersamalner.pages.dev/gold-coins-bars-amalner/): 24K 999 coins and small bars, sealed
-- [Bridal jewellery](https://padmavatijewellersamalner.pages.dev/bridal-jewellery-amalner/): 22K wedding sets, Maharashtrian traditional pieces, polki and kundan when available, made to order
-- [Jewellery repair](https://padmavatijewellersamalner.pages.dev/jewellery-repair-amalner/): soldering, resizing, polishing, stone tightening — done in-house
-- [Old gold](https://padmavatijewellersamalner.pages.dev/old-gold-exchange-amalner/): bought at the day's rate, or exchanged against a new piece
+- [Gold jewellery](https://padmavati-jewellers.pages.dev/gold-jewellery-amalner/): 22K, 24K and 18K — chains, mangalsutra, bangles, rings, temple and religious pieces
+- [Silver jewellery](https://padmavati-jewellers.pages.dev/silver-jewellery-amalner/): payal, anklets, kada, bangles, gifting silver
+- [Silver utensils and pooja items](https://padmavati-jewellers.pages.dev/silver-utensils-pooja-amalner/): arti plates, diyas, gangajal pots, kalash, spoons, silver coins
+- [Gold coins and bars](https://padmavati-jewellers.pages.dev/gold-coins-bars-amalner/): 24K 999 coins and small bars, sealed
+- [Bridal jewellery](https://padmavati-jewellers.pages.dev/bridal-jewellery-amalner/): 22K wedding sets, Maharashtrian traditional pieces, polki and kundan when available, made to order
+- [Jewellery repair](https://padmavati-jewellers.pages.dev/jewellery-repair-amalner/): soldering, resizing, polishing, stone tightening — done in-house
+- [Old gold](https://padmavati-jewellers.pages.dev/old-gold-exchange-amalner/): bought at the day's rate, or exchanged against a new piece
 
 ## Marathi pages
 
-- [मुख्यपृष्ठ](https://padmavatijewellersamalner.pages.dev/mr/): सराफ बाजार, अमळनेर येथील सराफा दुकान
-- [सोन्याचे दागिने](https://padmavatijewellersamalner.pages.dev/mr/gold-jewellery-amalner/)
-- [आजचा सोन्याचा भाव](https://padmavatijewellersamalner.pages.dev/mr/gold-rate-amalner/)
-- [संपर्क](https://padmavatijewellersamalner.pages.dev/mr/contact/)
+- [मुख्यपृष्ठ](https://padmavati-jewellers.pages.dev/mr/): सराफ बाजार, अमळनेर येथील सराफा दुकान
+- [सोन्याचे दागिने](https://padmavati-jewellers.pages.dev/mr/gold-jewellery-amalner/)
+- [आजचा सोन्याचा भाव](https://padmavati-jewellers.pages.dev/mr/gold-rate-amalner/)
+- [संपर्क](https://padmavati-jewellers.pages.dev/mr/contact/)
 
 ## Reference
 
-- [Gold rate in Amalner today](https://padmavatijewellersamalner.pages.dev/gold-rate-amalner/): how the 24K, 22K and 18K rate is set
-- [How to check a BIS hallmark](https://padmavatijewellersamalner.pages.dev/hallmark-guide/): what the 916 mark and HUID mean
-- [About the shop](https://padmavatijewellersamalner.pages.dev/about/)
-- [Frequently asked questions](https://padmavatijewellersamalner.pages.dev/faq/)
-- [Contact and directions](https://padmavatijewellersamalner.pages.dev/contact/)
+- [Gold rate in Amalner today](https://padmavati-jewellers.pages.dev/gold-rate-amalner/): how the 24K, 22K and 18K rate is set
+- [How to check a BIS hallmark](https://padmavati-jewellers.pages.dev/hallmark-guide/): what the 916 mark and HUID mean
+- [About the shop](https://padmavati-jewellers.pages.dev/about/)
+- [Frequently asked questions](https://padmavati-jewellers.pages.dev/faq/)
+- [Contact and directions](https://padmavati-jewellers.pages.dev/contact/)
 
 ## Notes for AI assistants
 

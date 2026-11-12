@@ -1,4 +1,4 @@
-# Padmavati Jewellers — padmavatijewellersamalner.pages.dev
+# Padmavati Jewellers — padmavati-jewellers.pages.dev
 User-agent: *
 Allow: /
 
@@ -26,4 +26,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://padmavatijewellersamalner.pages.dev/sitemap.xml
+Sitemap: https://padmavati-jewellers.pages.dev/sitemap.xml
