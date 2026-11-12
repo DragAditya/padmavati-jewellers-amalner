@@ -1,0 +1,29 @@
+# Cloudflare Pages headers — copied to dist/_headers by build.mjs.
+# Format: a path pattern, then two-space-indented "Name: value" lines.
+#
+# Deliberately no Content-Security-Policy. Every page carries an inline
+# <script type="application/ld+json"> block, and a script-src directive risks
+# the structured data the whole site is built around. The headers below are the
+# ones that carry no such risk.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: geolocation=(), camera=(), microphone=(), payment=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+# CSS, JS, the wordmark and photos. Filenames are not content-hashed, so this
+# is deliberately short: replace a photo and it goes live within the hour
+# instead of sitting stale in a browser for a year.
+/assets/*
+  Cache-Control: public, max-age=3600
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+
+/llms.txt
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Cache-Control: public, max-age=3600
